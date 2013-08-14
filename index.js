@@ -1,5 +1,4 @@
-var join = require('path').join,
-  crypto = require('crypto'),
+var crypto = require('crypto'),
   moment = require('moment')
   ;
 
