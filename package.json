@@ -1,0 +1,25 @@
+{
+  "name": "redactor-s3-url-signer",
+  "version": "0.0.1",
+  "description": "Module to create signed URLs for Redactor uploads to S3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dyashkir/amazon-s3-url-signer"
+  },
+  "keywords": [
+    "redactor"
+    "amazon",
+    "S3",
+    "url",
+    "signing"
+  ],
+  "author": {
+    "name": "Cyberwombat"
+  },
+  "license": "BSD"
+
+}
