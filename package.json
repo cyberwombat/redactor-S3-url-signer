@@ -1,6 +1,6 @@
 {
   "name": "redactor-s3-url-signer",
-  "version": "0.1.01",
+  "version": "0.1.0",
   "description": "Module to create signed URLs for Redactor uploads to S3",
   "main": "index.js",
   "scripts": {
