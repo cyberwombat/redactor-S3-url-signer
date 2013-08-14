@@ -17,9 +17,8 @@
     "url",
     "signing"
   ],
-  "author": {
-    "name": "Cyberwombat"
-  },
-  "license": "BSD"
-
+  "author": "Cyberwombat",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "2cffcf5f52d9ed856a61a44cccef31b6a96c82b8"
 }
