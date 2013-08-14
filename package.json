@@ -1,23 +1,24 @@
 {
-  "name": "redactor-s3-url-signer",
-  "version": "0.1.0",
-  "description": "Module to create signed URLs for Redactor uploads to S3",
+  "name": "redactor-signer",
+  "version": "0.0.0",
+  "description": "Node module to create S3 signed URLs for Redactor",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-
+  "repository": {
+    "type": "git",
+    "url": "https://cyberwombat@github.com/cyberwombat/redactor-S3-url-signer.git"
+  },
   "keywords": [
     "redactor",
     "amazon",
-    "S3",
-    "url",
-    "signing"
+    "s3"
   ],
-  "author": "Cyberwombat",
+  "author": "cyberwombat",
   "license": "BSD",
   "readmeFilename": "README.md",
-  "gitHead": "2cffcf5f52d9ed856a61a44cccef31b6a96c82b8",
+  "gitHead": "d01a536e72ea14c1f1e49c15cfe8f3d798932f42",
   "dependencies": {
     "crypto": "0.0.3",
     "moment": "~2.1.0"
