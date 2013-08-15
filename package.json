@@ -1,5 +1,5 @@
 {
-  "name": "redactor-S3-url-signer",
+  "name": "redactor-s3-url-signer",
   "version": "0.0.0",
   "description": "Node module to create S3 signed URLs for Redactor",
   "main": "index.js",
