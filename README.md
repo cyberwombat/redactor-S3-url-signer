@@ -1,4 +1,4 @@
-##Node modeule for Redactor S3 uploads
+##Node module for Redactor S3 uploads
 
 This module creates signed URLs for use with Redactor editor S3 uploads
 
